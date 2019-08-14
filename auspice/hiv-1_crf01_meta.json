@@ -1,0 +1,481 @@
+{
+  "author_info": {
+    "An et al., 2012": {
+      "journal": "J Virology",
+      "n": 32,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/22933290",
+      "title": "Reconstituting the epidemic history of HIV strain CRF01_AE among men who have sex with men (MSM) in Liaoning, northeastern China: implications for the expanding epidemic among MSM in China."
+    },
+    "Anderson et al., 2000": {
+      "journal": "J Virology",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/11044120",
+      "title": "Testing the hypothesis of a recombinant origin of human immunodeficiency virus type 1 subtype E."
+    },
+    "Auwanit et al., 2001": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/11429129",
+      "title": "Full-length sequences of two CRF01_ae (subtype e) HIV type 1 isolates from 1995 samples of patients with sexually transmitted diseases in Thailand."
+    },
+    "Berg et al., 2016": {
+      "journal": "J Clin Microbiol",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/26699702",
+      "title": "A Pan-HIV Strategy for Complete Genome Sequencing"
+    },
+    "Brown et al., 2005": {
+      "journal": "J Virology",
+      "n": 6,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/?term=AY713425",
+      "title": "Biologic and genetic characterization of a panel of 60 human immunodeficiency virus type 1 isolates, representing clades A, B, C, D, CRF01_AE, and CRF02_AG, for the development and assessment of candidate vaccines."
+    },
+    "Carr et al., 1996": {
+      "journal": "J Virology",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/8709215",
+      "title": "Full-length sequence and mosaic structure of a human immunodeficiency virus type 1 isolate from Thailand."
+    },
+    "Chang et al., 1999": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/10606093",
+      "title": "Sequence features downstream of the primer-binding site of HIV type 1 subtype E shared by subtype G and a subset of subtype A."
+    },
+    "Feng et al., 2013": {
+      "journal": "AIDS",
+      "n": 72,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/23807275",
+      "title": "The rapidly expanding CRF01_AE epidemic in China is driven by multiple lineages of HIV-1 viruses introduced in the 1990s."
+    },
+    "Gao et al., 1996": {
+      "journal": "J Virology",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/8794346",
+      "title": "The heterosexual human immunodeficiency virus type 1 epidemic in Thailand is caused by an intersubtype (A/E) recombinant of African origin."
+    },
+    "Grossmann et al., 2015": {
+      "journal": "J Int AIDS Soc",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/26115688",
+      "title": "Subtype-independent near full-length HIV-1 genome sequencing and assembly to be used in large molecular epidemiological studies and clinical management."
+    },
+    "Guo et al., 2009": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/19534629",
+      "title": "Near full-length genome characterization of an HIV-1 CRF01_AE strain in Jiangsu, China: evidence of two independent introductions from Fujian."
+    },
+    "Hai-Long et al., 2007": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 13,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/17451347",
+      "title": "Genetic characterization of CRF01_AE full-length human immunodeficiency virus type 1 sequences from Fujian, China."
+    },
+    "Han et al., 2015": {
+      "journal": "PLoS ONE",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/26018591",
+      "title": "Development of an HIV-1 Subtype Panel in China: Isolation and Characterization of 30 HIV-1 Primary Strains Circulating in China."
+    },
+    "Heipertz et al., 2013": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/23972100",
+      "title": "Molecular epidemiology of early and acute HIV type 1 infections in the United States Navy and Marine Corps, 2005-2010."
+    },
+    "Hora et al., 2013": {
+      "journal": "unpublished",
+      "n": 20,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Hora et al., 2014": {
+      "journal": "unpublished",
+      "n": 6,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Hora et al., 2018": {
+      "journal": "unpublished",
+      "n": 4,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Jahanbakhsh et al., 2013": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/22916738",
+      "title": "Molecular epidemiology of HIV type 1 infection in Iran: genomic evidence of CRF35_AD predominance and CRF01_AE infection among individuals associated with injection drug use."
+    },
+    "Junqueira et al., 2019": {
+      "journal": "unpublished",
+      "n": 4,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Kijak et al., 2007": {
+      "journal": "Virology",
+      "n": 3,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/16997343",
+      "title": "Distinguishing molecular forms of HIV-1 in Asia with a high-throughput, fluorescent genotyping assay, MHAbce v.2."
+    },
+    "Kijak et al., 2013": {
+      "journal": "J Virology",
+      "n": 13,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/23576510",
+      "title": "Molecular evolution of the HIV-1 Thai epidemic between the time of RV144 immunogen selection to the execution of the vaccine efficacy trial."
+    },
+    "Kijak et al., 2017": {
+      "journal": "PLoS Pathogens",
+      "n": 4,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/28759651",
+      "title": "Rare HIV-1 transmitted/founder lineages identified by deep viral sequencing contribute to rapid shifts in dominant quasispecies during acute and early infection."
+    },
+    "Kusagawa et al., 2002": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/11839144",
+      "title": "Isolation and characterization of replication-competent molecular DNA clones of HIV type 1 CRF01_AE with different coreceptor usages."
+    },
+    "Li et al., 2010": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 12,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/20528151",
+      "title": "Genetic characterization of 13 subtype CRF01_AE near full-length genomes in Guangxi, China."
+    },
+    "Li et al., 2011": {
+      "journal": "Infect Genet Evol",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/21645646",
+      "title": "High genetic diversity of HIV-1 was found in men who have sex with men in Shijiazhuang, China."
+    },
+    "Liao et al., 2009": {
+      "journal": "Virology",
+      "n": 33,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/19540543",
+      "title": "Phylodynamic analysis of the dissemination of HIV-1 CRF01_AE in Vietnam."
+    },
+    "Luk et al., 2015": {
+      "journal": "unpublished",
+      "n": 1,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Neogi et al., 2017": {
+      "journal": "Sci Rep.",
+      "n": 3,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/28744024",
+      "title": "Recent increased identification and transmission of HIV-1 unique recombinant forms in Sweden."
+    },
+    "Piyasirisilp et al., 2000": {
+      "journal": "J Virology",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/11070028",
+      "title": "A recent outbreak of human immunodeficiency virus type 1 infection in southern China was initiated by two highly homogeneous, geographically separated strains, circulating recombinant form AE and a novel BC recombinant."
+    },
+    "Rolland et al., 2012": {
+      "journal": "Nature",
+      "n": 45,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/22960785",
+      "title": "Increased HIV-1 vaccine efficacy against viruses with genetic signatures in Env V2."
+    },
+    "Rutvisuttinunt et al., 2012": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 6,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/22587412",
+      "title": "Two unique recombinant forms identified in incident HIV type 1 infections in Thai blood donors."
+    },
+    "Salminen et al., 2000": {
+      "journal": "Virology",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/11112486",
+      "title": "Construction and biological characterization of infectious molecular clones of HIV-1 subtypes B and E (CRF01_AE) generated by the polymerase chain reaction."
+    },
+    "Sanders-Buell et al., 2010": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/20438383",
+      "title": "Distinct circulating recombinant HIV-1 strains among injecting drug users and sex workers in Afghanistan."
+    },
+    "Sato et al., 2001": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/11356968",
+      "title": "Augmentation of human immunodeficiency virus type 1 subtype E (CRF01_AE) multiple-drug resistance by insertion of a foreign 11-amino-acid fragment into the reverse transcriptase."
+    },
+    "Subbarao et al., 2002": {
+      "journal": "unpublished",
+      "n": 1,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Takebe et al., 2002": {
+      "journal": "unpublished",
+      "n": 1,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Tatsumi et al., 2005": {
+      "journal": "unpublished",
+      "n": 5,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Tovanabutra et al., 2004": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 28,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/15186520",
+      "title": "The changing molecular epidemiology of HIV type 1 among northern Thai drug users, 1999 to 2002."
+    },
+    "Tovanabutra et al., 2005": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 3,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/?term=AY444806",
+      "title": "Characterization of complete HIV type 1 genomes from non-B subtype infections in U.S. military personnel."
+    },
+    "Tsui et al., 2005": {
+      "journal": "unpublished",
+      "n": 1,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Umeki-Sakamoto et al., 2010": {
+      "journal": "unpublished",
+      "n": 11,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Watanaveeradej et al., 2005": {
+      "journal": "unpublished",
+      "n": 1,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Watanaveeradej et al., 2006": {
+      "journal": "AIDS Res Hum Retroviruses",
+      "n": 17,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/16910837",
+      "title": "Molecular epidemiology of HIV Type 1 in preparation for a Phase III prime-boost vaccine trial in Thailand and a new approach to HIV Type 1 genotyping."
+    },
+    "Wei et al., 2014": {
+      "journal": "unpublished",
+      "n": 3,
+      "paper_url": "unpublished",
+      "title": "unpublished"
+    },
+    "Yebra et al., 2018": {
+      "journal": "PLoS ONE",
+      "n": 4,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/29389981",
+      "title": "A high HIV-1 strain variability in London, UK, revealed by full-genome analysis: Results from the ICONIC project."
+    }
+  },
+  "color_options": {
+    "authors": {
+      "key": "authors",
+      "legendTitle": "Authors",
+      "menuItem": "authors",
+      "type": "discrete"
+    },
+    "country": {
+      "color_map": [
+        [
+          "cameroon",
+          "#264915"
+        ],
+        [
+          "thailand",
+          "#477ECA"
+        ],
+        [
+          "central_african_republic",
+          "#62CF5A"
+        ],
+        [
+          "philippines",
+          "#661960"
+        ],
+        [
+          "sweden",
+          "#D32BCD"
+        ],
+        [
+          "united_kingdom",
+          "#2B2BAC"
+        ],
+        [
+          "china",
+          "#C73E43"
+        ],
+        [
+          "japan",
+          "#BC37A2"
+        ],
+        [
+          "usa",
+          "#ABB133"
+        ],
+        [
+          "afghanistan",
+          "#CD3637"
+        ],
+        [
+          "vietnam",
+          "#34CBCC"
+        ],
+        [
+          "hong_kong",
+          "#AA4ED3"
+        ],
+        [
+          "iran",
+          "#86BB6E"
+        ],
+        [
+          "indonesia",
+          "#EDB7DB"
+        ],
+        [
+          "myanmar",
+          "#6F7EDB"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "asia",
+          "#6F1C23"
+        ],
+        [
+          "africa",
+          "#16591B"
+        ],
+        [
+          "europe",
+          "#3028A1"
+        ],
+        [
+          "north_america",
+          "#76D5DD"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "region",
+      "menuItem": "region"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "country",
+    "region",
+    "authors"
+  ],
+  "geo": {
+    "country": {
+      "afghanistan": {
+        "latitude": 33.0,
+        "longitude": 66.0
+      },
+      "cameroon": {
+        "latitude": 6.0,
+        "longitude": 12.5
+      },
+      "central_african_republic": {
+        "latitude": 7.0,
+        "longitude": 21.0
+      },
+      "china": {
+        "latitude": 35.000074,
+        "longitude": 104.999927
+      },
+      "hong_kong": {
+        "latitude": 22.3964,
+        "longitude": 114.1095
+      },
+      "indonesia": {
+        "latitude": -5.0,
+        "longitude": 120.0
+      },
+      "iran": {
+        "latitude": 32.0,
+        "longitude": 53.0
+      },
+      "japan": {
+        "latitude": 35.68536,
+        "longitude": 139.75309
+      },
+      "myanmar": {
+        "latitude": 21.0,
+        "longitude": 96.0
+      },
+      "philippines": {
+        "latitude": 12.8797,
+        "longitude": 121.774
+      },
+      "sweden": {
+        "latitude": 59.6749712,
+        "longitude": 14.5208584
+      },
+      "thailand": {
+        "latitude": 14.8971921,
+        "longitude": 100.83273
+      },
+      "united_kingdom": {
+        "latitude": 54.542713,
+        "longitude": -2.384858
+      },
+      "usa": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "vietnam": {
+        "latitude": 16.16667,
+        "longitude": 107.83333
+      }
+    },
+    "region": {
+      "africa": {
+        "latitude": 4.070194,
+        "longitude": 21.824559
+      },
+      "europe": {
+        "latitude": 49.646237,
+        "longitude": 10.799454
+      },
+      "north_america": {
+        "latitude": 28.2367447,
+        "longitude": -97.738017
+      }
+    }
+  },
+  "maintainer": [
+    "Eduan Wilkinson",
+    "https://www.krisp.org.za/people.php?fullName=Wilkinson%20E"
+  ],
+  "panels": [
+    "tree",
+    "map"
+  ],
+  "title": "Evolution and spread of the global CRF01 strain of HIV-1",
+  "updated": "14 Aug 2019",
+  "virus_count": 358
+}
